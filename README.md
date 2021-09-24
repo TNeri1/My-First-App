@@ -14,3 +14,4 @@ I am using a wide array of resources from Kotlin documentation and several tutor
 ### Useful Websites
 
 * [Android Tutorial Website](https://developer.android.com/training/basics)
+* [Start Another Activity](https://developer.android.com/training/basics/firstapp/starting-activity?authuser=7#kotlin)
