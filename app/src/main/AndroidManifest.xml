@@ -11,7 +11,10 @@
         android:theme="@style/Theme.MyFirstApp">
         <activity
             android:name=".DisplayMessageActivity"
-            android:exported="true" />
+            android:parentActivityName=".MainActivity" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
